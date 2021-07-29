@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Ekanayake J.E.M.D.Y.
+## About
+#### B.Sc. Computer Engineering(ug)
