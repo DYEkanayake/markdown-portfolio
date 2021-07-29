@@ -1,7 +1,7 @@
-*This text will be italic*
-_This will also be italic_
+*This is italic*
+_This is also be italic_
 
-**This text will be bold**
-__This will also be bold__
+**This is  bold**
+__This is also be bold__
 
-_You **can** combine them_
+_This is **combined**_
